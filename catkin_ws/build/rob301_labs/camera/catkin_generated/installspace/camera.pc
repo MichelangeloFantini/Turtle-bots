@@ -1,0 +1,8 @@
+prefix=/home/rob301_1/catkin_ws/install
+
+Name: camera
+Description: Description of camera
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: rospy std_msgs sensor_msgs cv_bridge

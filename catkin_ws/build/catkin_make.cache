@@ -1,0 +1,2 @@
+rob301_labs/camera:rob301_labs/final_project:rob301_labs/lab1:rob301_labs/lab2:rob301_labs/lab3:rob301_labs/lab4
+-DCATKIN_DEVEL_PREFIX=/home/rob301_1/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/rob301_1/catkin_ws/install -G Unix Makefiles

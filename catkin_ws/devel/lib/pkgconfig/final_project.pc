@@ -1,0 +1,8 @@
+prefix=/home/rob301_1/catkin_ws/devel
+
+Name: final_project
+Description: Description of final_project
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: rospy std_msgs geometry_msgs
